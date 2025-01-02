@@ -5,7 +5,7 @@
 - 🖥️ My research interest is **High-Performance Computing** , **System Programming**, **Computer Architecture**.
 - 📫 How to reach me: laurence.yang1218@gmail.com
 
-[![cmyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmyang1218)](https://github.com/anuraghazra/github-readme-stats)
+[![cmyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmyang1218&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **cmyang1218/cmyang1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
