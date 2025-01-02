@@ -4,6 +4,9 @@
 - 📖 I am working in Performance, Application and Security Lab (PASLab). Advisor: *Prof. Shih-Hao, Hung*.
 - 🖥️ My research interest is **High-Performance Computing** , **System Programming**, **Computer Architecture**.
 - 📫 How to reach me: laurence.yang1218@gmail.com
+
+<img src="https://raw.githubusercontent.com/cmyang1218/cmyang1218/master/assets/stack-hills.png" alt="stacks"/>
+
 <!--
 **cmyang1218/cmyang1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
