@@ -1,7 +1,7 @@
 ## Hi, I am Laurence (Yang, Chuo-Min) 👋
 
-- 🔭 I am currently a MSCS student in National Taiwan University (NTU).
-- 📖 I am working in Performance, Application and Security Lab (PASLab). Advisor: *Prof. Shih-Hao, Hung*.
+- 🔭 I am an MSCS student at National Taiwan University (NTU).
+- 📖 I work in Performance, Application and Security Lab (PASLab). Advisor: *Prof. Shih-Hao, Hung*.
 - 🖥️ My research interest is **High-Performance Computing** , **System Programming**, **Computer Architecture**.
 - 📫 How to reach me: laurence.yang1218@gmail.com
 
