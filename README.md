@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi, I am Laurence (Yang, Chuo-Min) 👋
 
+- 🔭 I am currently a MSCS student in National Taiwan University (NTU).
+- 📖 I am working in Performance, Application and Security Lab (PASLab). Advisor: *Prof. Shih-Hao, Hung*.
+- 🖥️ My research interest is **High-Performance Computing** , **System Programming**, **Computer Architecture**.
+- 📫 How to reach me: laurence.yang1218@gmail.com
 <!--
 **cmyang1218/cmyang1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
