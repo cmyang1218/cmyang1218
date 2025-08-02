@@ -1,6 +1,6 @@
 ## Hi, I am Laurence (Yang, Chuo-Min) 👋
-
-- 🔭 I received my M.S. in Computer Science from National Taiwan University (NTU).
+- 🎓 I received my B.S. in Computer Science from National Yang Ming Chiao Tung University (NYCU). 
+- 🎓 I received my M.S. in Computer Science from National Taiwan University (NTU).
 - 📖 I conducted research in the Performance, Application and Security Lab (PASLab). Advisor: *Prof. Shih-Hao, Hung*.
 - 🖥️ My research interest is **Parallel Programming**, **High-Performance Computing** , **System Programming**, **Computer Architecture**.
 - 📫 How to reach me: laurence.yang1218@gmail.com
