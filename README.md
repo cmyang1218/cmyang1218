@@ -3,7 +3,7 @@
 - 🎓 I received my M.S. in Computer Science from National Taiwan University (NTU).
 - 🎓 I received my B.S. in Computer Science from National Yang Ming Chiao Tung University (NYCU). 
 - 📖 I conducted research in the Performance, Application and Security Lab (PASLab). Advisor: *Prof. Shih-Hao, Hung*.
-- 🖥️ My research interest is **Parallel Programming**, **High-Performance Computing** , **System Programming**, **Computer Architecture**.
+- 🖥️ My research interest is **Parallel Programming**, **High-Performance Computing** , **System Programming**, **Computer Architecture**, **Android Open Source Project (AOSP)**.
 - 📫 How to reach me: laurence.yang1218@gmail.com
 
 [![Chuo-Min's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmyang1218&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
